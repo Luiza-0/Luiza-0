@@ -1,5 +1,4 @@
 # Oii! Eu sou a Lu, seja bem vindo(a)! 🦊
-
 <hr>
 <div style="display: inline_block"><br>
   <a href="https://www.instagram.com/_luizag0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
