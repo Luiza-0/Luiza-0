@@ -13,9 +13,9 @@
 📚 - Estudante de Engenharia de Software na UCSAL<br>
 </div><br>
 
- <div>
+ <div style="display: inline_block"><br>
  <a href="https://github.com/Luiza-0">
- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luiza-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
- <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiza-0&layout=compact&langs_count=7&theme=radical"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiza-0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiza-0&layout=compact&langs_count=7&theme=radical"/>
    </div>
 
